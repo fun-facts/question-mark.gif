@@ -1,5 +1,5 @@
-body{
-  background-image: URL("https://i.gifer.com/4Jo1.gif"); /* Replace with your image URL */
+body {
+  background-image: url("https://i.gifer.com/4Jo1.gif"); /* Replace with your image URL if desired */
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
