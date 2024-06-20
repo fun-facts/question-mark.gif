@@ -1,7 +1,10 @@
 body{
-    background-image: URL("https://i.gifer.com/4Jo1.gif");
-    background-size: contain; 
-    height: 100vh;
-    padding:0;
-    margin:0;
+  background-image: URL("https://i.gifer.com/4Jo1.gif"); /* Replace with your image URL */
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  margin: 0;
+  font-family: sans-serif; /* Basic font for the body (optional) */
+  height: 100vh; /* Set body height to viewport height */
+  position: relative; /* Needed for absolute positioning */
 }
