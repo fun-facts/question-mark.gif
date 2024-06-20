@@ -1,9 +1,6 @@
 body{
     background-image: URL("https://raw.githubusercontent.com/fun-facts/question-mark.gif/main/giphy.gif");
-    background-size: cover;
-    
-    
-    
+    background-size: contain; 
     height: 100vh;
     padding:0;
     margin:0;
